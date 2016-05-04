@@ -5,3 +5,8 @@ __pycache__
 *.pyc
 secrets.py
 db.sqlite3
+.ipynb_checkpoints
+Untitled.upynb
+ml-10M100L
+ml-10M100K
+Untitled.ipynb
